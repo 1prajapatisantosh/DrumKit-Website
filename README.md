@@ -23,10 +23,7 @@ An interactive and fun DrumKit web application built using HTML, CSS, and JavaSc
 
 ## 📸 Demo
 
-![DrumKit Demo](demo.gif)  
-*Click or press the keys to make some beats!*
-
----
+https://drum-kit-website-gamma.vercel.app/
 
 ## 🧠 How It Works
 
